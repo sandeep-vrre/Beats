@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Beats</string>
+
+    <string name="title_songs">Songs</string>
+    <string name="title_albums">Albums</string>
+
+    <!--Alan Walker Hit Singles-->
+    <string name="album_alan_walker_hits">Alan Walker Hit Singles</string>
+    <string name="artist_alan_walker">Alan Walker</string>
+    <string name="song_on_my_way">On My Way</string>
+    <string name="song_the_spectre">The Spectre</string>
+    <string name="song_darkside">Darkside</string>
+    <string name="song_darkness_fade">Darkness Fade</string>
+
+    <!--What I Have Become - Ashesh Remain-->
+    <string name="album_what_i_have_become">What I Have Become</string>
+    <string name="artist_ashes_remain">Ashes Remain</string>
+    <string name="song_on_my_own">On My Own</string>
+    <string name="song_right_here">Right Here</string>
+    <string name="song_without_you">Without You</string>
+    <string name="song_change_my_life">Change My Life</string>
+
+    <!--Deamn Singles-->
+    <string name="artist_deamn">Deamn</string>
+    <string name="album_deamn_hits">Deamn Hits</string>
+    <string name="song_save_me">Save Me</string>
+    <string name="song_sign">Sign</string>
+
+    <!--Marshmellow-->
+    <string name="album_marshmellow">Marshmellow Hits</string>
+    <string name="artist_Christopher_Comstock">Christopher Comstock</string>
+    <string name="song_happier">Happier</string>
+
+    <!--Toby Mac - Eye On It-->
+    <string name="album_eye_on_it">Eye On It </string>
+    <string name="artist_toby_mac">Toby Mac</string>
+    <string name="song_speak_life">Speak Life</string>
+    <string name="song_steal_my_show">Steal My Show</string>
+
+    <!--Syko Beats-->
+    <string name="album_syko">Syko Beats</string>
+    <string name="artist_syko_beats">Syko Beats Pro.</string>
+    <string name="song_cool_catz">Cool Catz</string>
+    <string name="song_old_school">Old School</string>
+
+
+    <!--TheFatRat-->
+    <string name="album_thefatrat">TheFatRat Collections</string>
+    <string name="artist_christian">Christian Friedrich</string>
+    <string name="song_monody">Monody</string>
+    <string name="song_unity">Unity</string>
+
+    <!--Casting Crowns-->
+    <string name="album_thenxt">The Very Next Thing</string>
+    <string name="artist_casting_crows">Casting Crowns</string>
+    <string name="song_nxt_thng">The Very Next Thing</string>
+    <string name="song_one_step_away">One Step Away</string>
+
+    <!--Cloud Ten-->
+    <string name="album_cloud_ten_singles">Fareoh Singles</string>
+    <string name="artist_Fareoh">Fareoh</string>
+    <string name="song_cloud_ten">Cloud Ten</string>
+    <string name="artist_fareoh_thompson">Fareoh ft. Ethan Thompson</string>
+    <string name="song_under_water">Under Water</string>
+
+    <!--Ehide My Heart-->
+    <string name="album_my_heart">Different Heaven</string>
+    <string name="artist_Ehide">Ehide</string>
+    <string name="song_ehide_myheart">My Heart</string>
+
+</resources>
