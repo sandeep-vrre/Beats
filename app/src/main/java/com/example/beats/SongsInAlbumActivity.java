@@ -1,5 +1,4 @@
 package com.example.beats;
-
 import android.content.Intent;
 import android.graphics.Typeface;
 import android.os.Build;
@@ -59,8 +58,7 @@ public class SongsInAlbumActivity extends AppCompatActivity{
                         textView.setLayoutParams(params);
                         textView.setClickable(true);
                         textView.setFocusable(true);
-                        ll.addView(textView);
-
+                        ll.addView(textView;
                         final int songPosition = i;
                         textView.setOnClickListener(new View.OnClickListener() {
                             @Override
